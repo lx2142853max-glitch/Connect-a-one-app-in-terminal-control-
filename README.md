@@ -16,6 +16,7 @@ This is a separate program—not the Arena assistant connected to this conversat
 After this branch is available on GitHub, run:
 
 ```sh
+cd ~
 git clone --single-branch --branch arena/8d4405ef-connect-a-one-app-in-terminal https://github.com/lx2142853max-glitch/Connect-a-one-app-in-terminal-control-.git
 mkdir -p ~/agent-work
 cd ~/agent-work
